@@ -45,4 +45,5 @@ public class Participante {
                 "Nome: " + nome + "\n" +
                 "Email: " + email;
     }
+
 }
