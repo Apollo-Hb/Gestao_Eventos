@@ -1,4 +1,4 @@
-package br.edu.unisep.Gestao_Eventos.Model;
+package br.edu.unisep.gestaoEventos.model;
 
 public class Palestrante {
     private int id;

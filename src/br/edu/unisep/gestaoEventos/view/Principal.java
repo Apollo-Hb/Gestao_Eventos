@@ -1,6 +1,6 @@
-package br.edu.unisep.Gestao_Eventos.view;
+package br.edu.unisep.gestaoEventos.view;
 
-import br.edu.unisep.Gestao_Eventos.Model.*;
+import br.edu.unisep.gestaoEventos.model.*;
 
 import javax.swing.*;
 import java.util.Date;
